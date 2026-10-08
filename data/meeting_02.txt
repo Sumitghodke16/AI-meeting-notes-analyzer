@@ -1,0 +1,5 @@
+John: We need to improve the website performance.
+Sarah: Page load time is too slow.
+David: I will optimize the database queries this week.
+Sarah: I will redesign the homepage layout.
+John: Let's finish these tasks before Friday.
